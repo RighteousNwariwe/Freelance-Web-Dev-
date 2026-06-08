@@ -1,0 +1,16 @@
+{
+  "name": "Righteous Nwariwe — Web Developer",
+  "short_name": "Righteous",
+  "description": "Professional web development for South African businesses",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0a0a0f",
+  "theme_color": "#c6f135",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
